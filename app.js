@@ -18,7 +18,7 @@ client.setConfig({
 app.get("/", function(req, res){
 
 		res.sendFile(__dirname + "/signup.html");
-});
+})
 
   app.post("/", function(req, res){
 
@@ -83,4 +83,4 @@ console.log("Sever is running on port 3000.");
 //4a8cfd100c0342f7aab5058cd7551889-us5
 
 // Audience id
-// 8808ee9052
+// 8808ee9052s
