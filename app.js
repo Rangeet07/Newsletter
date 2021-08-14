@@ -11,7 +11,7 @@ app.use(express.static("public"));
 app.use(bodyParser.urlencoded({extended: true}));
 
 client.setConfig({
-  apiKey: "4a8cfd100c0342f7aab5058cd7551889",
+  apiKey: "05bb8444bff934bbee3c57e3afad54d6",
   server: "us5",
   });
 
